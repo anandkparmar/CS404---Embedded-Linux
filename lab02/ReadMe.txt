@@ -1,3 +1,15 @@
+# Comments from Mark A. Yoder
+
+5 blinkled.js
+5 input.js
+5 some variation
+5 ReadMe.txt
+5 Not late
+
+Grade:  25/25
+
+========================================
+
 // Name: Parmar Anandkumar K.
 // Roll no. : B12021
 // 04 Oct, 2015
